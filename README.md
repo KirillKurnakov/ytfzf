@@ -29,7 +29,7 @@
 * [`Dependencies`](#Dependencies_full_all)
 * [`Install`](#Install_full_all)
 * [`Features`](#Features_full_all)
-* [`Examples`](#Examples)
+* [`Examples`](#Examples_full)
 * [`Todo`](#Todo)
 * [`Bugs`](#Bugs)
 * [`Credits`](#Credits)
