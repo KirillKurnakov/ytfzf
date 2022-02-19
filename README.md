@@ -28,7 +28,7 @@
 
 * [`Dependencies`](#Dependencies_full_all)
 * [`Install`](#Install_full_all)
-* [`Features`](#Features)
+* [`Features`](#Features_full_all)
 * [`Examples`](#Examples)
 * [`Todo`](#Todo)
 * [`Bugs`](#Bugs)
