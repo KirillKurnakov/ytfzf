@@ -27,7 +27,7 @@
 # Table Of Contents
 
 * [`Dependencies`](#Dependencies_full)
-* [`Install`](#Install)
+* [`Install`](#Install_full)
 * [`Features`](#Features)
 * [`Examples`](#Examples)
 * [`Todo`](#Todo)
