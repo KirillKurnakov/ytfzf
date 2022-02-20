@@ -31,7 +31,7 @@
 * [`Features`](#Features_full_all)
 * [`Examples`](#Examples_full)
 * [`Todo`](#Todo_full_edit_1)
-* [`Bugs`](#Bugs_full_edit)
+* [`Bugs`](#Bugs_full_edit_2)
 * [`Credits`](#Credits_edit)
 
 ---
