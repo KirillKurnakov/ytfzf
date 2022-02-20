@@ -32,7 +32,7 @@
 * [`Examples`](#Examples_full)
 * [`Todo`](#Todo_full_edit_1)
 * [`Bugs`](#Bugs_full_edit_2)
-* [`Credits`](#Credits_edit)
+* [`Credits`](#Credits_edit_3)
 
 ---
 
