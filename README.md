@@ -30,7 +30,7 @@
 * [`Install`](#Install_full_all)
 * [`Features`](#Features_full_all)
 * [`Examples`](#Examples_full)
-* [`Todo`](#Todo_full)
+* [`Todo`](#Todo_full_edit)
 * [`Bugs`](#Bugs_full)
 * [`Credits`](#Credits)
 
